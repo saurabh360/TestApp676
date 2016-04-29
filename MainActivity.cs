@@ -8,7 +8,11 @@ namespace ertfd
 	public class MainActivity : Activity
 	{
 		int count = 1;
-		asdasdasd
+		asdasdasd;
+
+
+
+		dsgdfgdfg
 		protected override void OnCreate(Bundle savedInstanceState)
 		{
 			base.OnCreate(savedInstanceState);
